@@ -170,21 +170,17 @@ The website is designed to be more than a visual showcase.
 
 # 📸 Project Showcase
 
-## Desktop Experience
+<div align="center">
 
-![Homepage](./screenshots/homepage.png)
+<img src="./screenshots/homepage.png" width="48%" alt="Homepage"/>
+<img src="./screenshots/hero-section.png" width="48%" alt="Hero Section"/>
 
-## Hero Section
+<br><br>
 
-![Hero Section](./screenshots/hero-section.png)
+<img src="./screenshots/vice-city.png" width="48%" alt="Vice City"/>
+<img src="./screenshots/mobile-view.png" width="48%" alt="Mobile View"/>
 
-## Character Showcase
-
-![Character Showcase](./screenshots/character-showcase.png)
-
-## Mobile Experience
-
-![Mobile View](./screenshots/mobile-view.png)
+</div>
 
 ---
 
