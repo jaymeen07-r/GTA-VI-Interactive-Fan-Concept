@@ -172,13 +172,13 @@ The website is designed to be more than a visual showcase.
 
 <div align="center">
 
-<img src="./screenshots/homepage.png" width="48%" alt="Homepage"/>
-<img src="./screenshots/hero-section.png" width="48%" alt="Hero Section"/>
+<img src="./screenshots/poster_landscape_01.jpg" width="48%" alt="Poster-Landscape"/>
+<img src="./screenshots/poster_landscape_02.jpg" width="48%" alt="Poster-Landscape"/>
 
 <br><br>
 
-<img src="./screenshots/vice-city.png" width="48%" alt="Vice City"/>
-<img src="./screenshots/mobile-view.png" width="48%" alt="Mobile View"/>
+<img src="./screenshots/Jason_Duval_01.jpg" width="48%" alt="Jason_Duval"/>
+<img src="./screenshots/Lucia_Caminos_01.jpg" width="48%" alt="Lucia_Caminos"/>
 
 </div>
 
