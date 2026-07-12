@@ -175,8 +175,6 @@ The website is designed to be more than a visual showcase.
 <img src="./screenshots/poster_landscape_01.jpg" width="48%" alt="Poster-Landscape"/>
 <img src="./screenshots/poster_landscape_02.jpg" width="48%" alt="Poster-Landscape"/>
 
-<br><br>
-
 <img src="./screenshots/Jason_Duval_01.jpg" width="48%" alt="Jason_Duval"/>
 <img src="./screenshots/Lucia_Caminos_01.jpg" width="48%" alt="Lucia_Caminos"/>
 
