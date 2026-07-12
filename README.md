@@ -168,6 +168,26 @@ The website is designed to be more than a visual showcase.
 
 ---
 
+# 📸 Project Showcase
+
+## Desktop Experience
+
+![Homepage](./screenshots/homepage.png)
+
+## Hero Section
+
+![Hero Section](./screenshots/hero-section.png)
+
+## Character Showcase
+
+![Character Showcase](./screenshots/character-showcase.png)
+
+## Mobile Experience
+
+![Mobile View](./screenshots/mobile-view.png)
+
+---
+
 # ⚡ Technical Architecture
 
 The project is built using a modern frontend stack optimized for both performance and visual fidelity.
